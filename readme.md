@@ -29,7 +29,7 @@ bind "c" "use weapon_smokegrenade"
 bind "x" "use weapon_molotov;use weapon_incgrenade"
 bind "z" "use weapon_decoy"
 //一键丢包
-bind "t" "use weapon_c4;dorp weapon_c4"
+bind "t" "use weapon_c4;drop weapon_c4"
 
 ```
 ------
