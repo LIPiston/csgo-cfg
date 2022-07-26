@@ -1,12 +1,14 @@
-## csgo-cfg
+# csgo-cfg
+
 一个时不时会更新的项目  
 上传自己经常会用到的一些东西
 
+## 游戏启动使用的 cfg  
 
-### 游戏启动使用的 cfg  
 `csgo.cfg`  
 用法:  
 在启动项添加
+
 ```cfg
 +exec csgo.cfg
 ```
